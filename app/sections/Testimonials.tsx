@@ -9,8 +9,6 @@ import avatar6 from "@/app/assets/avatar-6.png";
 import avatar7 from "@/app/assets/avatar-7.png";
 import avatar8 from "@/app/assets/avatar-8.png";
 import avatar9 from "@/app/assets/avatar-9.png";
-import Image from "next/image";
-import { twMerge } from "tailwind-merge";
 import { motion } from "framer-motion";
 import React from "react";
 
