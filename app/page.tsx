@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import { Headers } from "@/app/sections/Header";
 import { Hero } from "./sections/Hero";
 import { LogoTicker } from "./sections/LogoTicker";
