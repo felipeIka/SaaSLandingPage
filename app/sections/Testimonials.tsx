@@ -11,7 +11,7 @@ import avatar8 from "@/app/assets/avatar-8.png";
 import avatar9 from "@/app/assets/avatar-9.png";
 import { motion } from "framer-motion";
 import React from "react";
-
+import Image from "next/image";
 const testimonials = [
   {
     text: "As a seasoned designer always on the lookout for innovative tools, Framer.com instantly grabbed my attention.",
