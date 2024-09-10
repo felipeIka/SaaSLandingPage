@@ -4,7 +4,6 @@ import ArrowIcon from "@/app/assets/arrow-right.svg"
 import cogImage from "@/app/assets/cog.png"
 import cylinderImage from "@/app/assets/cylinder.png"
 import noodleImage from "@/app/assets/noodle.png"
-import Image from "next/image";
 import {easeInOut, motion, useScroll, useTransform} from "framer-motion"
 import { useRef } from "react"
 
